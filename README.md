@@ -1,5 +1,13 @@
 # bases-vuex
 
+## Leasons learned
+- How to create and use store
+- Use of state
+- Use of mutations
+- Use of actions
+- How to separate states in modules
+- Use `clean code` in our modules
+
 ## Project setup
 ```
 npm install

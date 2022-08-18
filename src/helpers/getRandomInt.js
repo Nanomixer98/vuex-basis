@@ -4,7 +4,7 @@ const getRandmonInt = () => {
 
         setTimeout(() => {
             resolve(rndInt)
-        }, 1000);
+        }, 2000);
     })
 } 
 
